@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  dahuozu
+//
+//  Created by apple on 15/12/23.
+//  Copyright © 2015年 cheniue. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "AFNetworking.h"
+#import "SystemDefine.h"
+#import "DBWorker.h"
+#import "TextFunction.h"
+#import "DataFunction.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
